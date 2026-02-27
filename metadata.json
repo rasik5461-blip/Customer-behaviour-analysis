@@ -1,0 +1,5 @@
+{
+  "name": "Customer Behaviour Analytics",
+  "description": "A comprehensive data analytics dashboard for customer segmentation, behavior analysis, and AI-driven insights using the Gemini API.",
+  "requestFramePermissions": []
+}
